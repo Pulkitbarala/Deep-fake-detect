@@ -32,7 +32,7 @@ This project provides a minimal, end-to-end inference pipeline for image-based d
 ├─ requirements.txt
 ├─ model/
 │  ├─ model.h5
-│  └─ deepfake_efficientb4_attn_final.keras
+|
 └─ utils/
    ├─ preprocess.py
    └─ predict.py
